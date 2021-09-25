@@ -19,6 +19,7 @@ import com.qa.JavaInterviewPrograms.FileMaxWordCount;
 import com.qa.JavaInterviewPrograms.FilePermissions;
 import com.qa.JavaInterviewPrograms.FileRead;
 import com.qa.JavaInterviewPrograms.HelloWorldWithoutSemicolon;
+import com.qa.JavaInterviewPrograms.ImageFormatConversion;
 import com.qa.JavaInterviewPrograms.IntegerCaching;
 import com.qa.JavaInterviewPrograms.LeaderElements;
 import com.qa.JavaInterviewPrograms.LongNumberWithoutL;
@@ -99,6 +100,7 @@ public class MainExecutionClass {
 		// PrintName.test();
 		// ArmstrongNumber.test();
 		// FilePermissions.test();
+		// ImageFormatConversion.test();
 	}
 
 }
