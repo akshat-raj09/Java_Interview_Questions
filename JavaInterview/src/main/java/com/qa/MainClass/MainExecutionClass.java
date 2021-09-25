@@ -16,6 +16,7 @@ import com.qa.JavaInterviewPrograms.FileCopy;
 import com.qa.JavaInterviewPrograms.FileCreate;
 import com.qa.JavaInterviewPrograms.FileListSorted;
 import com.qa.JavaInterviewPrograms.FileMaxWordCount;
+import com.qa.JavaInterviewPrograms.FilePermissions;
 import com.qa.JavaInterviewPrograms.FileRead;
 import com.qa.JavaInterviewPrograms.HelloWorldWithoutSemicolon;
 import com.qa.JavaInterviewPrograms.IntegerCaching;
@@ -97,6 +98,7 @@ public class MainExecutionClass {
 		// LeaderElements.test();
 		// PrintName.test();
 		// ArmstrongNumber.test();
+		// FilePermissions.test();
 	}
 
 }
