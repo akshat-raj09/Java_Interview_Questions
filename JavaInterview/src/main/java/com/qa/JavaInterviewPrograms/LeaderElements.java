@@ -36,7 +36,7 @@ public class LeaderElements {
 
         System.out.println("Original Array is : " + Arrays.toString(number));
 
-        leader = leader(number);
+        leader = leaderElements(number);
 
         System.out.println("============================================================");
 
@@ -52,7 +52,6 @@ public class LeaderElements {
         int leaderIndex = 0;
 
         leader[0] = number[number.length-1];
-        leaderIndex++;
 
         for(int i = number.length-2; i>=0; i--){
             if(number[i] > leader[leaderIndex]){
