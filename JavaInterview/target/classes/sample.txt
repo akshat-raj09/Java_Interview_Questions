@@ -1,0 +1,22 @@
+This is a sample text file that is used for finding the word which has the highest frequency in this file.
+
+java
+python
+c#
+javascript
+c++
+testing
+test
+testing
+tools
+testing
+text
+testing
+words
+testing
+$$$$
+testing
+is
+is
+is
+is
