@@ -17,7 +17,7 @@ import org.apache.logging.log4j.Logger;
 public class ImageFormatConversion {
 
     //Initialize Log4j instance
-	private static final Logger log =  LogManager.getLogger(ValidPhoneNumber.class);
+	private static final Logger log =  LogManager.getLogger(ImageFormatConversion.class);
 
 	public static void test() {
 
