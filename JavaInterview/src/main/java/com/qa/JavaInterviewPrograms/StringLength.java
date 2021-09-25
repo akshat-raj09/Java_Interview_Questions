@@ -4,7 +4,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 /*
- * Findthe length of the String without using the length()
+ * Find the length of the String without using the length()
  */
 
 public class StringLength {
