@@ -52,7 +52,7 @@ This repository contains code for preparation of some famous Java interview ques
 - *[LeaderElements](https://github.com/akshat-raj09/Java_Interview_Questions/blob/master/JavaInterview/src/main/java/com/qa/JavaInterviewPrograms/LeaderElements.java)* ---------->> Find out all the leader elements in an array (A leader element is an element who is greater than all the elements to its right).
 - *[PrintName](https://github.com/akshat-raj09/Java_Interview_Questions/blob/master/JavaInterview/src/main/java/com/qa/JavaInterviewPrograms/PrintName.java)* ---------->> Print your name 1000 times without using loop or recursion.
 - *[ArmstrongNumber](https://github.com/akshat-raj09/Java_Interview_Questions/blob/master/JavaInterview/src/main/java/com/qa/JavaInterviewPrograms/ArmstrongNumber.java)* ---------->> Find all the Armstrong Numbers between 0 to 10000.
-- *[FilePermissions](https://github.com/akshat-raj09/Java_Interview_Questions/blob/master/JavaInterview/src/main/java/com/qa/JavaInterviewPrograms/FilePermissions.java)* ---------->> How to set file permissions in java.
+- *[FilePermissions](https://github.com/akshat-raj09/Java_Interview_Questions/blob/master/JavaInterview/src/main/java/com/qa/JavaInterviewPrograms/FilePermissions.java)* ---------->> How to set file permissions (Read/Write/Execute) in java.
 
 ## Run Locally
 
