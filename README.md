@@ -54,6 +54,7 @@ This repository contains code for preparation of some famous Java interview ques
 - *[ArmstrongNumber](https://github.com/akshat-raj09/Java_Interview_Questions/blob/master/JavaInterview/src/main/java/com/qa/JavaInterviewPrograms/ArmstrongNumber.java)* ---------->> Find all the Armstrong Numbers between 0 to 10000.
 - *[FilePermissions](https://github.com/akshat-raj09/Java_Interview_Questions/blob/master/JavaInterview/src/main/java/com/qa/JavaInterviewPrograms/FilePermissions.java)* ---------->> How to set file permissions (Read/Write/Execute) in java.
 - *[ImageFormatConversion](https://github.com/akshat-raj09/Java_Interview_Questions/blob/master/JavaInterview/src/main/java/com/qa/JavaInterviewPrograms/ImageFormatConversion.java)* ---------->> Convert the image file format from .jpg to .png/.gif/.bmp etc.
+- *[LaunchExternalApp](https://github.com/akshat-raj09/Java_Interview_Questions/blob/master/JavaInterview/src/main/java/com/qa/JavaInterviewPrograms/LaunchExternalApp.java)* ---------->> Launch External Applications like notepad, chrome etc. using Java.
 
 ## Run Locally
 
