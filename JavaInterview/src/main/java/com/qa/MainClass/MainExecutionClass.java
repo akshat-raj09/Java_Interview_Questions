@@ -21,6 +21,7 @@ import com.qa.JavaInterviewPrograms.FileRead;
 import com.qa.JavaInterviewPrograms.HelloWorldWithoutSemicolon;
 import com.qa.JavaInterviewPrograms.ImageFormatConversion;
 import com.qa.JavaInterviewPrograms.IntegerCaching;
+import com.qa.JavaInterviewPrograms.LaunchExternalApp;
 import com.qa.JavaInterviewPrograms.LeaderElements;
 import com.qa.JavaInterviewPrograms.LongNumberWithoutL;
 import com.qa.JavaInterviewPrograms.MaxMethodParameters;
@@ -101,6 +102,7 @@ public class MainExecutionClass {
 		// ArmstrongNumber.test();
 		// FilePermissions.test();
 		// ImageFormatConversion.test();
+		LaunchExternalApp.test();
 	}
 
 }
