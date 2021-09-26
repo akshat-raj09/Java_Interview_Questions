@@ -24,6 +24,7 @@ import com.qa.JavaInterviewPrograms.IntegerCaching;
 import com.qa.JavaInterviewPrograms.LaunchExternalApp;
 import com.qa.JavaInterviewPrograms.LeaderElements;
 import com.qa.JavaInterviewPrograms.LongNumberWithoutL;
+import com.qa.JavaInterviewPrograms.MatrixCreation;
 import com.qa.JavaInterviewPrograms.MaxMethodParameters;
 import com.qa.JavaInterviewPrograms.MissingElement;
 import com.qa.JavaInterviewPrograms.NotANumberConcept;
@@ -102,7 +103,8 @@ public class MainExecutionClass {
 		// ArmstrongNumber.test();
 		// FilePermissions.test();
 		// ImageFormatConversion.test();
-		LaunchExternalApp.test();
+		// LaunchExternalApp.test();
+		MatrixCreation.test();
 	}
 
 }
