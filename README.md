@@ -56,6 +56,8 @@ This repository contains code for preparation of some famous Java interview ques
 - *[ImageFormatConversion](https://github.com/akshat-raj09/Java_Interview_Questions/blob/master/JavaInterview/src/main/java/com/qa/JavaInterviewPrograms/ImageFormatConversion.java)* ---------->> Convert the image file format from .jpg to .png/.gif/.bmp etc.
 - *[LaunchExternalApp](https://github.com/akshat-raj09/Java_Interview_Questions/blob/master/JavaInterview/src/main/java/com/qa/JavaInterviewPrograms/LaunchExternalApp.java)* ---------->> Launch External Applications like notepad, chrome etc. using Java.
 - *[MatrixCreation](https://github.com/akshat-raj09/Java_Interview_Questions/blob/master/JavaInterview/src/main/java/com/qa/JavaInterviewPrograms/MatrixCreation.java)* ---------->> Create a matrix with the help of user input & display its contents
+- *[MatrixTranspose](https://github.com/akshat-raj09/Java_Interview_Questions/blob/master/JavaInterview/src/main/java/com/qa/JavaInterviewPrograms/MatrixTranspose.java)* ---------->> Find the transpose of the matrix that is entered by user
+- *[MatrixMultiplication](https://github.com/akshat-raj09/Java_Interview_Questions/blob/master/JavaInterview/src/main/java/com/qa/JavaInterviewPrograms/MatrixMultiplication.java)* ---------->> Find the multiplication of two matrices that are entered by user.
 
 ## Run Locally
 
