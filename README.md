@@ -55,6 +55,7 @@ This repository contains code for preparation of some famous Java interview ques
 - *[FilePermissions](https://github.com/akshat-raj09/Java_Interview_Questions/blob/master/JavaInterview/src/main/java/com/qa/JavaInterviewPrograms/FilePermissions.java)* ---------->> How to set file permissions (Read/Write/Execute) in java.
 - *[ImageFormatConversion](https://github.com/akshat-raj09/Java_Interview_Questions/blob/master/JavaInterview/src/main/java/com/qa/JavaInterviewPrograms/ImageFormatConversion.java)* ---------->> Convert the image file format from .jpg to .png/.gif/.bmp etc.
 - *[LaunchExternalApp](https://github.com/akshat-raj09/Java_Interview_Questions/blob/master/JavaInterview/src/main/java/com/qa/JavaInterviewPrograms/LaunchExternalApp.java)* ---------->> Launch External Applications like notepad, chrome etc. using Java.
+- *[MatrixCreation](https://github.com/akshat-raj09/Java_Interview_Questions/blob/master/JavaInterview/src/main/java/com/qa/JavaInterviewPrograms/MatrixCreation.java)* ---------->> Create a matrix with the help of user input & display its contents
 
 ## Run Locally
 
