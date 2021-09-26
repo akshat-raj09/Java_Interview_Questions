@@ -25,6 +25,8 @@ import com.qa.JavaInterviewPrograms.LaunchExternalApp;
 import com.qa.JavaInterviewPrograms.LeaderElements;
 import com.qa.JavaInterviewPrograms.LongNumberWithoutL;
 import com.qa.JavaInterviewPrograms.MatrixCreation;
+import com.qa.JavaInterviewPrograms.MatrixMultiplication;
+import com.qa.JavaInterviewPrograms.MatrixTranspose;
 import com.qa.JavaInterviewPrograms.MaxMethodParameters;
 import com.qa.JavaInterviewPrograms.MissingElement;
 import com.qa.JavaInterviewPrograms.NotANumberConcept;
@@ -104,7 +106,9 @@ public class MainExecutionClass {
 		// FilePermissions.test();
 		// ImageFormatConversion.test();
 		// LaunchExternalApp.test();
-		MatrixCreation.test();
+		// MatrixCreation.test();
+		MatrixMultiplication.test();
+		MatrixTranspose.test();
 	}
 
 }
