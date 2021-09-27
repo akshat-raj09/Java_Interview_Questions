@@ -21,7 +21,7 @@ import com.qa.JavaInterviewPrograms.FileRead;
 import com.qa.JavaInterviewPrograms.HelloWorldWithoutSemicolon;
 import com.qa.JavaInterviewPrograms.ImageFormatConversion;
 import com.qa.JavaInterviewPrograms.IntegerCaching;
-import com.qa.JavaInterviewPrograms.JDBCMysqlConnection;
+import com.qa.JavaInterviewPrograms.JDBCMysqlCRUDQuery;
 import com.qa.JavaInterviewPrograms.JDBCMysqlSelectQuery;
 import com.qa.JavaInterviewPrograms.LaunchExternalApp;
 import com.qa.JavaInterviewPrograms.LeaderElements;
@@ -111,7 +111,7 @@ public class MainExecutionClass {
 		// MatrixCreation.test();
 		// MatrixMultiplication.test();
 		// MatrixTranspose.test();
-		// JDBCMysqlConnection.test();
+		// JDBCMysqlCRUDQuery.test();
 		// JDBCMysqlSelectQuery.test();
 	}
 
